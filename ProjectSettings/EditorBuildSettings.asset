@@ -5,10 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/CVR_Escenas/Escena_Catalogo.unity
     guid: ae904fd0b4aebca49b8a24ec742ae0bb
-  - enabled: 1
+  - enabled: 0
     path: Assets/CVR_Escenas/Escena_AR.unity
     guid: 8a96b3a30f96f0943bf82c18199a1232
+  - enabled: 1
+    path: Assets/ValderramaCelia_Ex_UD3.unity
+    guid: 40444316c6a72b54fa58f4c9caaf57d0
   m_configObjects: {}
